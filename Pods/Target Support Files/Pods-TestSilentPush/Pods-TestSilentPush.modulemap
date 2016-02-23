@@ -1,0 +1,6 @@
+framework module Pods_TestSilentPush {
+  umbrella header "Pods-TestSilentPush-umbrella.h"
+
+  export *
+  module * { export * }
+}
